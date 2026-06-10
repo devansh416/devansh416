@@ -1,7 +1,6 @@
  # 💫 Hi, I'm Devansh Gupta
 **A passionate Software Engineer || Full-Stack Developer || Problem Solver**
 
-
 ## 💻 Tech Stack:
 
 <details open>
@@ -43,12 +42,10 @@
 <br>
 
 ## 🎓 Education:
-
 **B.Tech — Computer Science Engineering (2023 – 2027)**
 **Pranveer Singh Institute of Technology (AKTU), Kanpur**
 * **Current CGPA:** 7.41 (till 5th semester)
 * **Focus Areas:** Data Structures, OS, DBMS, Networks
-
 <br>
 
 # 📊 GitHub Stats:
@@ -59,7 +56,6 @@
 * 📜 **Certified** in Problem Solving (Intermediate) & SQL (Advanced) by HackerRank.
 <br/>
 
-
 ## 🌐 Let's Connect:
 <div align="center">
  
@@ -68,8 +64,7 @@
 
 </div>
 
-
 <p align="center">
   <br>
-  <i>Building. Coding. Every day.</i> 🚀
+  <i>Learning. Coding. Building. Every day.</i> 🚀
 </p>
