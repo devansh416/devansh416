@@ -62,7 +62,7 @@
 ## 🐍 Progress Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/krishnaa-awasthi/krishnaa-awasthi/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" />
+  <img src="https://raw.githubusercontent.com/devansh416/devansh416/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" />
 </div>
 
 <br>
