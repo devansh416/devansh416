@@ -59,13 +59,6 @@
 * 📜 **Certified** in Problem Solving (Intermediate) & SQL (Advanced) by HackerRank.
 <br/>
 
-## 🐍 Progress Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devansh416/devansh416/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" />
-</div>
-
-<br>
 
 ## 🌐 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/devansh-gupta-b776672a0) 
