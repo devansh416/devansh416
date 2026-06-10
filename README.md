@@ -61,5 +61,15 @@
 
 
 ## 🌐 Let's Connect:
+<div align="center">
+ 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/devansh-gupta-b776672a0) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devanshgupta1410@gmail.com) 
+
+</div>
+
+
+<p align="center">
+  <br>
+  <i>Building. Coding. Every day.</i> 🚀
+</p>
