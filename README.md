@@ -1,5 +1,18 @@
- # 💫 Hi, I'm Devansh Gupta
-**A passionate Software Engineer || Full-Stack Developer || Problem Solver**
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1200&color=F97316&center=true&vCenter=true&width=800&lines=Hi,+I'm+Devansh+Gupta+👋;" alt="Typing SVG" />
+  <p align="center">
+    <b>passionate Software Engineer | Full-Stack Developer | Problem Solver</b><br>
+    <i>I engineer scalable APIs, microservices, AI-powered tools, and highly interactive applications.</i>
+  </p>
+
+<p align="center">
+    <a href="#-tech-stack"><img src="https://img.shields.io/badge/Tech_Stack-18181B?style=for-the-badge&logo=codeforces&logoColor=white"></a>
+    <a href="#-featured-projects"><img src="https://img.shields.io/badge/Projects-3776AB?style=for-the-badge&logo=rocket&logoColor=white"></a>
+    <a href="#-achievements--stats"><img src="https://img.shields.io/badge/Achievements-9C27B0?style=for-the-badge&logo=medal&logoColor=white"></a>
+  </p>
+</div>
+
+<br>
 
 ## 💻 Tech Stack:
 
