@@ -8,7 +8,7 @@
 <p align="center">
     <a href="#-tech-stack"><img src="https://img.shields.io/badge/Tech_Stack-18181B?style=for-the-badge&logo=codeforces&logoColor=white"></a>
     <a href="#-featured-projects"><img src="https://img.shields.io/badge/Projects-3776AB?style=for-the-badge&logo=rocket&logoColor=white"></a>
-    <a href="#-achievements--stats"><img src="https://img.shields.io/badge/Achievements-9C27B0?style=for-the-badge&logo=medal&logoColor=white"></a>
+    <a href="#-achievements"><img src="https://img.shields.io/badge/Achievements-9C27B0?style=for-the-badge&logo=medal&logoColor=white"></a>
   </p>
 </div>
 
@@ -61,7 +61,7 @@
 * **Focus Areas:** Data Structures, OS, DBMS, Networks
 <br>
 
-# 📊 GitHub Stats:
+# 📊 Achievements:
 ![](https://github-readme-stats.shion.dev/api?username=devansh416&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=devansh416&theme=cobalt&hide_border=false)
 * 🧠 Solved **50+ problems on LeetCode** 
