@@ -68,6 +68,11 @@
 * Integrated **health sensors and GPS tracking** to detect emergencies and enable quick location sharing in remote environments.
 * Enabled **real-time alerts and remote monitoring** to improve outdoor safety.
 
+### 🌐 Currently working : LLM-Powered DevOps Automation Assistant
+`Python` `LLM` `NLP` `MongoDB`
+* Built an **LLM-powered DevOps assistant** to automate deployment, CI/CD, and infrastructure tasks.
+* Integrated cloud and DevOps tools for intelligent log analysis and **workflow automation**.
+* Enabled natural language commands to improve operational efficiency and reduce manual effort.
 
 ## 🎓 Education:
 **B.Tech — Computer Science Engineering (2023 – 2027)**
