@@ -1,8 +1,8 @@
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1200&color=F97316&center=true&vCenter=true&width=800&lines=Hi,+I'm+Devansh+Gupta+👋;" alt="Typing SVG" />
-  <p align="center">
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1200&color=3B82F6&center=true&vCenter=true&width=800&lines=Hi,+I'm+Devansh+Gupta+🚀;" alt="Typing SVG" />
+<p align="center">
     <b>passionate Software Engineer | Full-Stack Developer | Problem Solver</b><br>
-    <i>I engineer scalable APIs, microservices, AI-powered tools, and highly interactive applications.</i>
+    <i>I engineer IoT Projects, AI-powered tools, and highly interactive Projects.</i>
   </p>
 
 <p align="center">
@@ -54,6 +54,21 @@
 </details>
 <br>
 
+## 🚀 Featured Projects
+
+### 🏢 AI-Powered Shop Management System
+`React.js` `Node.js` `MongoDB` `Invoice Automation`
+* Built a full-stack e-commerce platform with secure login, product catalog, cart, and checkout using **MERN**.
+* Integrated GenAI for personalized product recommendations and smart query handling.
+* Implemented automated **invoice generation** and low-stock alerts, improving store efficiency.
+
+### 🤖 IoT Based Mountain Climber Health Tracker
+`IoT` `ESP32` `GPS` `Sensors Integration`
+* Developed an **IoT-based wearable health and safety tracking system** for mountain climbers using **ESP32** to monitor real-time health and location data.
+* Integrated **health sensors and GPS tracking** to detect emergencies and enable quick location sharing in remote environments.
+* Enabled **real-time alerts and remote monitoring** to improve outdoor safety.
+
+
 ## 🎓 Education:
 **B.Tech — Computer Science Engineering (2023 – 2027)**
 **Pranveer Singh Institute of Technology (AKTU), Kanpur**
@@ -62,8 +77,11 @@
 <br>
 
 # 📊 Achievements:
-![](https://github-readme-stats.shion.dev/api?username=devansh416&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=devansh416&theme=cobalt&hide_border=false)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devansh416&show_icons=true&theme=cobalt&hide_border=true&bg_color=0A0A0A" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devansh416&theme=cobalt&hide_border=true&background=0A0A0A" width="48%" />
+</div>
+
 * 🧠 Solved **50+ problems on LeetCode** 
 * 🏆 **Participant** — ICNGTSE 2025
 * 📜 **Certified** in Problem Solving (Intermediate) & SQL (Advanced) by HackerRank.
