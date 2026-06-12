@@ -77,7 +77,7 @@
 ## 🎓 Education:
 **B.Tech — Computer Science Engineering (2023 – 2027)**
 **Pranveer Singh Institute of Technology (AKTU), Kanpur**
-* **Current CGPA:** 7.41 (till 5th semester)
+* **Current CGPA:** 7.41 (till 6th semester)
 * **Focus Areas:** Data Structures, OS, DBMS, Networks
 <br>
 
@@ -103,5 +103,5 @@
 
 <p align="center">
   <br>
-  <i>Learning. Coding. Building. Every day.</i> 🚀
+  <i>Learning. Coding. Upskilling. Every day.</i> 🚀
 </p>
