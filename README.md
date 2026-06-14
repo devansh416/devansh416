@@ -1,7 +1,7 @@
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1200&color=3B82F6&center=true&vCenter=true&width=800&lines=Hi,+I'm+Devansh+Gupta+🚀;" alt="Typing SVG" />
 <p align="center">
-    <b>passionate Software Engineer | Full-Stack Developer | Problem Solver</b><br>
+    <b>Passionate Software Engineer | Full-Stack Developer | Problem Solver</b><br>
     <i>I engineer IoT Projects, AI-powered tools, and highly interactive Projects.</i>
   </p>
 
@@ -90,6 +90,7 @@
 * 🧠 Solved **50+ problems on LeetCode** 
 * 🏆 **Participant** — ICNGTSE 2025
 * 📜 **Certified** in Problem Solving (Intermediate) & SQL (Advanced) by HackerRank.
+* 📜 **Certified** in Generative AI by Oracle.
 <br/>
 
 ## 🌐 Let's Connect:
